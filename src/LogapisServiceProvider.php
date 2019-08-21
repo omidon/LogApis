@@ -36,3 +36,4 @@ class LogapisServiceProvider extends ServiceProvider
         $this->loadViewsFrom(__DIR__.'/views'/*$path*/, 'LogApis'/*$namespace*/);
     }
 }
+
