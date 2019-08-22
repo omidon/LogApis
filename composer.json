@@ -1,0 +1,12 @@
+{
+    "name": "radicloud/logapis",
+    "description": "the first package of mine",
+    "authors": [
+        {
+            "name": "omid",
+            "email": "omid.noorian.1991@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
